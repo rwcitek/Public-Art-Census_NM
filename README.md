@@ -1,3 +1,3 @@
 # geojsons_bern_interactive
 
-https://rokh1.github.io/Public-Art-Census_NM/
+https://rwcitek.github.io/Public-Art-Census_NM/
